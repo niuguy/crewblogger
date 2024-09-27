@@ -1,0 +1,9 @@
+click
+crewai
+crewai_tools
+langchain_community
+langchain_groq
+requests
+beautifulsoup4
+markdown
+replicate
